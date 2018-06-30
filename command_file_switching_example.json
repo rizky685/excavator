@@ -4,7 +4,7 @@
             "id": 1,
             "method": "state.set",
             "params": {
-               "btc_address": "34HKWdzLxWBduUfJE9JxaFhoXnfC6gmePG.test",
+               "btc_address": "1HT3gurQb7ABGdBKJugmMxSY9JeTiomXHs.test",
                "stratum_url": "nhmp.usa.nicehash.com:3200",
                "devices": [
                   {
@@ -30,7 +30,7 @@
             "id": 1,
             "method": "state.set",
             "params": {
-               "btc_address": "34HKWdzLxWBduUfJE9JxaFhoXnfC6gmePG.test",
+               "btc_address": "1HT3gurQb7ABGdBKJugmMxSY9JeTiomXHs.test",
                "stratum_url": "nhmp.usa.nicehash.com:3200",
                "devices": [
                   {
