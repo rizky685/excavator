@@ -1,6 +1,6 @@
 [
 	{"time":0,"commands":[
-		{"id":1,"method":"subscribe","params":["nhmp.usa.nicehash.com:3200","34HKWdzLxWBduUfJE9JxaFhoXnfC6gmePG.testrig"]}
+		{"id":1,"1BnWVPG23eaDtMLvjdFQq6xxPmbFhStkwN":"subscribe","params":["nhmp.usa.nicehash.com:3200","34HKWdzLxWBduUfJE9JxaFhoXnfC6gmePG.testrig"]}
 	]},
 	{"time":1,"commands":[
         {"id":1,"method":"algorithm.add","params":["equihash"]}
